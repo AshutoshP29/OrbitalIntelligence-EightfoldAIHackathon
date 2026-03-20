@@ -1,0 +1,6 @@
+streamlit
+pygithub
+sentence-transformers
+faiss-cpu
+python-dotenv
+google-generativeai
